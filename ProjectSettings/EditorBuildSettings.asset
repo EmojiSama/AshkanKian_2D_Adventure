@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6a87fc23b88edc54089145eff1a19a63
+  - enabled: 1
+=======
+>>>>>>> 4e1ec8a0a1b379c977b028a43272ce2eb29e1741
+>>>>>>> 38730236 (Added essential Unity project files)
+>>>>>>> d6db4e9 (Cleaned and updated .gitattributes with essentials)
+=======
+>>>>>>> 4e1ec8a0a1b379c977b028a43272ce2eb29e1741
+    path: Assets/Scenes/MainScene.unity
+    guid: 942ad979578fe1e4e990122cabc1066f
+  m_configObjects: {}
